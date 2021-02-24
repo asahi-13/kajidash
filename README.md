@@ -34,3 +34,6 @@
 
 ## 画面遷移図
 [家事ダッシュ画面遷移図](https://xd.adobe.com/view/404814b1-1f17-4934-846d-207acf334ef4-151b/)
+
+## ER図
+[ER図](https://drive.google.com/file/d/1dWxtIYIYky2qmz5mUIPtZI5l_1vmgjkG/view?usp=sharing)
